@@ -1,0 +1,15 @@
+pandas
+matplotlib
+seaborn
+pdf2image
+pymupdf
+PyPDF2
+pdfplumber
+Pillow
+requests
+openai
+beautifulsoup4
+lxml
+pytesseract
+python-dateutil
+arrow
